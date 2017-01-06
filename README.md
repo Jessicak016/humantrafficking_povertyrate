@@ -2,7 +2,7 @@
 
 <h2>Overview</h2>
 <p>In this project, I took a look into the number of participating agencies that actively did something against human trafficking and the poverty rate in each state. Using the data, I created the choropleth map of United States, displaying the data of poverty rate and the state participation for each state. </p>
-<p>Gathered data using Web API and HTML parsing, and manipulated data using Python to produce cumulative data list. 
+<p>I gathered data using Web API and HTML parsing, and manipulated data using Python to produce cumulative data list. 
 I visualized data by showing the poverty rate and the participation by state on US choropleth map using plotly.</p>
 
 <h2>Data Sources</h2>
