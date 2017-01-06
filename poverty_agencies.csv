@@ -1,0 +1,51 @@
+state_name,number_of_agencies,poverty_rate,fips_code,state_abbr
+Delaware,60,13,10,DE
+Missouri,637,15.5,29,MO
+Indiana,70,15.2,18,IN
+Colorado,249,12.1,08,CO
+Texas,1080,17.2,48,TX
+Utah,145,11.8,49,UT
+Alaska,2,11.4,02,AK
+New Mexico,0,20.6,35,NM
+Illinois,735,14.3,17,IL
+New Hampshire,0,9.2,33,NH
+Kentucky,0,19,21,KY
+Mississippi,52,21.9,28,MS
+Idaho,3,14.8,16,ID
+Arizona,0,18.2,04,AZ
+New York,0,16,36,NY
+Alabama,0,19.2,01,AL
+North Dakota,0,11.1,38,ND
+Montana,114,15.2,30,MT
+Louisiana,176,19.9,22,LA
+Maryland,155,10.4,24,MD
+Pennsylvania,0,13.6,42,PA
+Tennessee,464,18.2,47,TN
+District of Columbia,0,18.4,11,DC
+Wisconsin,116,13.2,55,WI
+Oklahoma,75,16.6,40,OK
+Florida,698,16.6,12,FL
+Connecticut,2,10.8,09,CT
+New Jersey,0,11.1,34,NJ
+Maine,3,14,23,ME
+Hawaii,3,11.5,15,HI
+Vermont,0,12,50,VT
+North Carolina,1,17.2,37,NC
+Kansas,6,13.5,20,KS
+Massachusetts,60,11.7,25,MA
+Washington,255,13.2,53,WA
+Minnesota,39,11.4,27,MN
+California,0,16.4,06,CA
+Michigan,657,16.2,26,MI
+Arkansas,296,18.7,05,AR
+Nebraska,1,12.3,31,NE
+South Dakota,137,14.1,46,SD
+Rhode Island,2,14.8,44,RI
+Wyoming,57,11.2,56,WY
+Nevada,45,15.4,32,NV
+West Virginia,0,18.3,54,WV
+South Carolina,506,17.9,45,SC
+Oregon,140,16.4,41,OR
+Virginia,0,11.8,51,VA
+Ohio,58,15.8,39,OH
+Iowa,0,12.3,19,IA
